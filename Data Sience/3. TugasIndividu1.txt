@@ -1,0 +1,8 @@
+
+Tugas Individu
+1. Buat paperwork seputaran Data Science dan penerapannya di Indonesia maupun di dunia yang sedang trend saat ini.
+   contoh judul: "ChatGPT", "Hidroponik IOT", dll.
+2. Minimal 2 lembar di MS. Word atau pdf.
+3. Jangan Copas, disarankan memakai kata-kata sendiri.
+4. Cantumkan sumber-sumber pustakanya di halaman terakhir, bisa berupa jurnal, link website dll.
+5. Dikumpulkan dalam 2 minggu.
